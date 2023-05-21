@@ -1,2 +1,3 @@
 # Ingfokosan
- Aplikasi untuk memanagement kost antara pemilik kost dan penyewa kost
+ - Aplikasi Untuk Management Pemilik Kosan
+ - Aplikasi Pencari Kosan

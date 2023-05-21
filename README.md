@@ -1,3 +1,3 @@
 # Ingfokosan
- - Aplikasi Untuk Management Pemilik Kosan
+ - Aplikasi Untuk Management Kosan
  - Aplikasi Pencari Kosan

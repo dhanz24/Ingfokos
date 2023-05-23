@@ -28,7 +28,7 @@
 <body class="signup-page">
     <div class="signup-box">
         <div class="logo">
-           <img src="<?php echo base_url()?>assets/images/mbakos2.png" width="350px" align="center">
+           <img src="<?php echo base_url()?>assets/images/ingfokos-trans.png" width="350px" align="center">
         </div>
         <div class="card">
             <div class="body">

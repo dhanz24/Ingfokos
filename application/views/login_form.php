@@ -28,7 +28,7 @@
 <body class="login-page">
     <div class="login-box">
         <div class="logo">
-            <img src="<?php echo base_url()?>assets/images/mbakos2.png" width="350px" align="center">
+            <img src="<?php echo base_url()?>assets/images/ingfokos-trans.png" width="350px" align="center">
             <!-- <a href="javascript:void(0);">Sistem Informasi<b>KOS</b></a>
             <small>Cari kos-kosan sesuai seleramu</small> -->
         </div>
